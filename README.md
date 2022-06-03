@@ -66,6 +66,6 @@ There are many other software solutions, libraries and platforms out there. Each
 - 🌐 [Our platform](https://dicehub.com)
 - 📦 [Some live examples](https://dicehub.com/community/)
 - 📄 [Documentation](https://docs.dicehub.com/)
-- 💬 [Discord server](https://discord.gg/xCumqYMs)
+- 💬 [Discord server](https://discord.gg/X6k6aTvw3D)
 - 🎨 [Design System](https://www.figma.com/community/file/1110827314855742005)
 - 🧑‍💻 [Community discussion forum](https://github.com/dicehub/community/discussions)
